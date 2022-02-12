@@ -1,0 +1,27 @@
+{
+    "name": "UIControllers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:21ebb50d4caa3574e96532185ed41294",
+        "GUID:75a12c4837603554d8b1c542ac845be2",
+        "GUID:5f200f6898e9f0e4d9c2e2d22086d5fe",
+        "GUID:021e6a96859f20d46b1accb3c85f0485",
+        "GUID:2c5a8340f5ad0a84194fd6f8ef0605a1",
+        "GUID:450afd0de05bbae4ab565febbf0a797d",
+        "GUID:63991643395884b43bad7235992890d2",
+        "GUID:4c0b5d10439b5ea4a935842b99946e77",
+        "GUID:d2a286063013b264792ae14187ab9245",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:6b1cae57833ccd740b707909b4a758dd",
+        "GUID:f51ebe6a0ceec4240a699833d6309b23"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
